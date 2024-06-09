@@ -3,8 +3,8 @@
 
 # Atividade Linux | UNICESUMAR Turma 2
 
-- [Requisitos AWS]()
-- [Requisitos Linux]()
+- [Requisitos AWS](https://github.com/MeireMayumi/Atividade_AWS_Linux/blob/main/requisitos_AWS.md)
+- [Requisitos Linux](https://github.com/MeireMayumi/Atividade_AWS_Linux/blob/main/requisitos_Linux.md)
   
 
 
