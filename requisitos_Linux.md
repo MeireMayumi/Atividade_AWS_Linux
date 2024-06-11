@@ -62,6 +62,14 @@
 
   [Clique aqui](https://github.com/MeireMayumi/Atividade_AWS_Linux/blob/main/script_status_apache.sh) para visualizar o script.
 
+    Tornar o script executável:
+    ```
+    chmod +x status_apache.sh
+    ```
+    Para executar o script:
+    ```
+    ./status_apache.sh
+    ```
 - *Preparar a execução automatizada do script a cada 5 minutos.*
 
     Editar o arquivo [/etc/crontab](https://github.com/MeireMayumi/Atividade_AWS_Linux/blob/main/arquivo_crontab.txt) para automatizar a execução do script a cada 5 minutos.
