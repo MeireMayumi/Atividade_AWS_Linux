@@ -25,7 +25,7 @@
   
   Para compartilhar um diretório com outros sistemas, é necessário exportar o diretório, adicionando o nome do diretório ao arquivo /etc/exports, e adicionando também as permissões de acesso e de edição.
 
-  Após editar o arquivo, exportar o diretório:
+  Após editar o [arquivo](https://github.com/MeireMayumi/Atividade_AWS_Linux/blob/main/exports.txt), exportar o diretório:
   ```
   /usr/sbin/exportfs -rav
   ```
